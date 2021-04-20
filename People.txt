@@ -1,0 +1,4 @@
+Jan, Kowalski, 50
+Anna, Nowak, 30
+Stefan, Wesołowski, 15
+John, Smith, 65
